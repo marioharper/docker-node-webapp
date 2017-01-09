@@ -1,4 +1,4 @@
 app:
   build:
-    image: node-webapp
+    image: marioharper/node-webapp
     dockerfile_path: Dockerfile
