@@ -1,0 +1,4 @@
+app:
+  build:
+    image: node-webapp
+    dockerfile_path: Dockerfile
